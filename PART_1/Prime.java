@@ -36,3 +36,9 @@ public class Prime {
         System.out.println();
     }
 }
+/*
+ * output for n = 50
+ * Enter the limit up to which primes are required:
+ * Primes up to 50 =
+ * 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47
+ */
