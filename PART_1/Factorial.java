@@ -16,3 +16,8 @@ public class Factorial {
         System.out.println("Factorial of " + n + " = " + fact);
     }
 }
+/*
+ * output for n = 5
+ * 5 x 4 x 3 x 2 x 1
+ * Factorial of 5 = 120
+ */
