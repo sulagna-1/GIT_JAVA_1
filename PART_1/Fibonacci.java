@@ -18,3 +18,7 @@ public class Fibonacci {
         }
     }
 }
+/*
+ * output for n = 5
+ * Fibonacci sequence = 0 1 1 2 3
+ */
